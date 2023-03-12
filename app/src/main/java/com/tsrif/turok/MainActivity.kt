@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
       420
+        22
+        5555
         println("Hiiiiii")
     }
 }

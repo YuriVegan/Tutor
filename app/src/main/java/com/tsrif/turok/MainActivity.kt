@@ -11,5 +11,8 @@ class MainActivity : AppCompatActivity() {
         22
         5555
         println("Hiiiiii")
+        getText()
+        setText()
+        setOnClickListener()
     }
 }
